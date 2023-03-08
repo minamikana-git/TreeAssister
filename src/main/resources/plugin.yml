@@ -4,4 +4,4 @@ main: org.hotal.treeassister.TreeAssister
 api-version: 1.19
 load: STARTUP
 authors: [蛍]
-description: Shiftで木が成長するプラグイン
+description: Shiftで木が成長するプラグイン。1.19.3対応

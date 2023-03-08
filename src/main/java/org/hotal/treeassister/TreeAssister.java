@@ -2,7 +2,6 @@ package org.hotal.treeassister;
 
 import org.bukkit.configuration.Configuration;
 import org.bukkit.plugin.java.JavaPlugin;
-
 import java.util.logging.Logger;
 
 public final class TreeAssister extends JavaPlugin {
