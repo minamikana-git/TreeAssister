@@ -1,0 +1,7 @@
+name: TreeAssister
+version: '${project.version}'
+main: org.hotal.treeassister.TreeAssister
+api-version: 1.19
+load: STARTUP
+authors: [蛍]
+description: Shiftで木が成長するプラグイン
